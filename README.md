@@ -1,5 +1,5 @@
 ##  ***WARNING! YOU MIGHT RIGHT NOW WASTING YOUR TIME ON THIS PROFILE! GO READ ITCH.IO PROFILE FOR MORE INFORMATION ABOUT ME! [LINK HERE](https://strangerxix79.itch.io/)***
-**But If Need Only Things About Coding & My OpenSource Project, Then You At Rigth Place!**
+**But If You Need Only Things About Coding & My OpenSource Project, Then You At Rigth Place!**
 
 # Welcome To Official stanger.Main() GitHub Profile! #
 For What I Will Use It:
