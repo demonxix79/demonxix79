@@ -1,15 +1,23 @@
-##  ***WARNING! YOU MIGHT RIGHT NOW WASTING YOUR TIME ON THIS PROFILE! GO READ ITCH.IO PROFILE FOR MORE INFORMATION ABOUT ME! [LINK HERE](https://strangerxix79.itch.io/)***
-**But If You Need Only Things About Coding & My OpenSource Project, Then You At Rigth Place!**
+# Hello! Welcome to strangeCORE GitHub Profile
+I'm fully intrested in game development! All stuff you will found here and in places I worked are all going to be connected to gaming sphere.
 
-# Welcome To Official stanger.Main() GitHub Profile! #
-For What I Will Use It:
-- To Create Private Repositories For Source Control
-- To Publish Piblic Repositories For All Users OpenSource
-- ~~To Collab With Other And Make More Friends~~ --> I'm Most Time Solo Developer, Sorry :(
+Here you will mostly find personal work and little open-source projects. There's the list of them:
+| TITLE | VERSION | LANGUAGE | SHORT DESCRIPTION | CURRENT STATUS |
+| ----- | ------- | -------- | ----------------- | -------------- |
+| --- | --- | --- | --- | --- |
 
-### What Projects Are Published For Everyone Here:
-- **ProjectName_Template** : *[ProjectHere]()*
+*Currently there's none. When they will appear - this list will be updated :3*
 
-**That's All For Here! Enjoy Your Stay!**
+## Where I mostly work with *BIG* projects?
+I work under my organization: [**UnixGame!**](https://github.com/UnixGame)
 
-<sub>This README.md Might Be Updated Soon</sub>
+## What I can do/write?
+| LANGUAGE | WHAT CAN DO | MAIN? | WHY I KNOW IT |
+| -------- | ----------- | ----- | ------------- |
+| Python | Simple programs; Pygame game | NO | Because everyone does |
+| C/C++ | Simple programs; Graphics software; Games | YES | It's my personal interest |
+| D | Simple programs; Games | NO | Pure 'why not?' |
+| Nim | Simple programs | NO | Same as D |
+| Swift | Simple programs; Graphics software; Games | YES | I love its syntax + its as fast as C/C++ |
+| Zig | Simple programs; Weird stuff | NO | It's like C, but better? |
+| JavaScript | Simple scripts; Weird stuff | NO | I must, because I also trying to work with web :( |
